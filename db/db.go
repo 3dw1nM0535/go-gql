@@ -6,7 +6,7 @@ import (
 	_ "github.com/jinzhu/gorm/dialects/postgres"
 )
 
-// DB *grom.DB
+// DB *gorm.DB
 type DB struct {
 	*gorm.DB
 }
