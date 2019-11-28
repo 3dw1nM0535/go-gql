@@ -100,7 +100,7 @@ Connect to http://localhost:8080
 
 ### Authentication : JWT
 
-You need to set the Http request headers `Authorization`: `{JWT_token}`
+You need to set the HTTP request headers `Authorization`: `{JWT_token}`
 
 ## Usage
 
