@@ -16,7 +16,7 @@ require (
 	github.com/mattdamon108/gqlmerge v0.2.2
 	github.com/mattn/go-sqlite3 v1.10.0 // indirect
 	github.com/stretchr/testify v1.3.0 // indirect
-	golang.org/x/crypto v0.0.0-20190422183909-d864b10871cd
-	golang.org/x/net v0.0.0-20190420063019-afa5a82059c6 // indirect
+	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
+	golang.org/x/net v0.7.0 // indirect
 	google.golang.org/appengine v1.5.0 // indirect
 )
